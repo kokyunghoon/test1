@@ -2,8 +2,6 @@
 
 *italic* 
 
-
 **bold**
-
 
 ***italic bold***
