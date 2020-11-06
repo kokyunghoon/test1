@@ -11,8 +11,8 @@
   
   ### Code Block
   
-  ~~~
+```
   void main(){
   for(int i = 0; ; i<100; i++){
    sum = sum + 1
-  ~~~
+   ```
