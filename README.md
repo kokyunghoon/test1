@@ -1,5 +1,5 @@
 # DKSH001
 
-*italic*
+*italic* \n
 **bold**
 ***italic bold***
